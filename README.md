@@ -24,6 +24,14 @@ An IoT sensor node utilizing TinyML to detect mechanical anomalies at the edge. 
 
 ![Hardware Setup](images/hardware_setup.jpeg)
 
+## Interactive Visualization
+
+> 🔗 **[Click here to view the Interactive Visualization](https://vishwaswami24.github.io/Edge_AI/interactive_visualization.html)**
+>
+> *(Hosted via GitHub Pages — shows live system data flow and model inference visualization)*
+
+---
+
 ## Step 1: Data Collection
 1. Flash `src/data_collection/data_collection.ino` to the ESP32.
 2. Mount the MPU6050 securely to the motor casing.
